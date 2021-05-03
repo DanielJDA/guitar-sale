@@ -13,9 +13,9 @@ const Header = () => {
   });
   const ProductView = () => {
     return (
-      <div className="w-full flex">
-        <div className="w-2/4 mx-8">{imgs}</div>
-        <div className="w-2/4 my-10 mx-8 relative">
+      <div className="w-full md:flex">
+        <div className="md:w-2/4 mx-8">{imgs}</div>
+        <div className="md:w-2/4 my-10 mx-8 relative">
             <h1 className=" text-3xl font-black">{product?.nombre}</h1>
             <p className="my-4">{product?.descripcion}</p>
             <button className="w-full px-4 py-4 bg-black font-black text-white">
@@ -26,8 +26,8 @@ const Header = () => {
     );
   };
   return (
-    <div className="flex justify-center bg-gray-200 min-h-screen">
-      <div className="w-2/4 bg-white">
+    <div className="flex justify-center  bg-gray-200 min-h-screen">
+      <div className="md:w-2/4 bg-white">
         <Nav />
         <ProductView />
         <Footer />

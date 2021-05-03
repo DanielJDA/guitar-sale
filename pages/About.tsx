@@ -10,7 +10,7 @@ interface aboutProps {}
 const about: React.FC<aboutProps> = () => {
   return (
     <div className="flex justify-center bg-gray-200 min-h-screen">
-      <div className=" w-2/4 bg-white">
+      <div className="md:w-2/4 bg-white">
         <Nav />
         <div className="px-6">
           <h1 className="text-6xl font-bold my-8">Qué Somos, WeaGuitar</h1>

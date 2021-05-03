@@ -34,7 +34,7 @@ const Header = () => {
     return (
       <div className="text-center" key={item.id}>
         <button
-          className="font-bold text-3xl"
+          className="font-bold text-3xl cursor-pointer hover:text-gray-700"
           onClick={() => router.push(`/info/${item.id}`)}
         >
           {item.nombre}
@@ -45,7 +45,7 @@ const Header = () => {
   });
   return (
     <div className="flex justify-center bg-gray-200 min-h-screen">
-      <div className="w-2/4 bg-white items-stretch flex flex-col">
+      <div className="md:w-2/4 w-full bg-white items-stretch flex flex-col">
         <div>
           <Nav />
           <div className="w-full my-8">

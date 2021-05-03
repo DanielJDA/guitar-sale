@@ -1,5 +1,3 @@
-import { useEffect } from "react";
-import { BsArrowRight } from "react-icons/bs";
 import styled from "styled-components";
 
 export const Slider = styled.input`

@@ -1,0 +1,50 @@
+[
+  {
+    "marca": "Fender",
+    "id": "0147512360",
+    "nombre": "75TH ANNIVERSARY STRATOCASTER®",
+    "precio": 829.53,
+    "descripcion": "In 1946 Clarence Leonidas “Leo” Fender created Fender Electric Instrument Company and changed the trajectory of modern music forever. The 75th Anniversary Series celebrates Leo’s bold, revolutionary designs with special versions of the Stratocaster®, Telecaster®, Precision Bass® and Jazz Bass®. Featuring unique finishes, premium pickups and remarkably comfortable necks, these instruments honor the timeless Fender designs that reshaped music.",
+    "imagenes": [
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0147512360_fen_ins_frt_1_rr.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0147512360_fen_ins_bck_1_rl.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0147512360_fen_ins_cbr_1_nr.jpg"
+    ]
+  },
+  {
+    "marca": "Fender",
+    "id": "0140292523",
+    "nombre": "SHAWN MENDES FOUNDATION MUSICMASTER®",
+    "precio": 585.33,
+    "descripcion": "The Shawn Mendes Foundation Musicmaster® is a unique combination of exquisite vintage art and classic Fender tone. Adorned with a fan's rendition of a striking floral design, this highly personal take on the popular 60s short-scale model features an alder body, “C”-shaped maple neck with 9.5” radius, 22 medium jumbo frets and a unique single/hum pickup configuration, providing a wide range of Fender tones.",
+    "imagenes": [
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0140292523_fen_ins_frt_1_rr.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0140292523_fen_ins_bck_1_rl.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0140292523_fen_ins_cbr_1_nr.jpg"
+    ]
+  },
+  {
+    "marca": "Fender",
+    "id": "0118030781",
+    "nombre": "AMERICAN ULTRA TELECASTER®",
+    "precio": 999.99,
+    "descripcion": "American Ultra is our most advanced series of guitars and basses for discerning players who demand the ultimate in precision, performance and tone. The American Ultra Telecaster features a unique “Modern D” neck profile with Ultra rolled fingerboard edges for hours of playing comfort, and the tapered neck heel allows easy access to the highest register. A speedy 10”-14” compound-radius fingerboard with 22 medium-jumbo frets means effortless and accurate soloing, while the Ultra Noiseless™ Vintage pickups and advanced wiring options provide endless tonal possibilities – without hum. The sculpted rear body contours are as beautiful as they are functional. This versatile, state-of-the-art instrument will inspire you to push your playing to new heights.",
+    "imagenes": [
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0118030781_gtr_frt_001_rr.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0118030781_gtr_back_001_rl.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0118030781_gtr_cntbdyright_001_nr.jpg"
+    ]
+  },
+  {
+    "marca": "Fender",
+    "id": "0370240533",
+    "nombre": "CONTEMPORARY STRATOCASTER® HH FR",
+    "precio": 345.55,
+    "descripcion": "The Squier® Contemporary Stratocaster® HH FR brings modern features and bold aesthetics to an iconic Fender platform to satisfy today’s most discerning and daring players. At the heart of this guitar is a pair of Squier SQR™ Atomic™ humbucking pickups whose 5-way switch includes coil-split options for versatile single-coil tones in the 2nd and 4th positions. The roasted maple neck was chosen for its optimal tone and stability, and a sculpted heel design allows for improved access all the way to the 22nd fret. High-performance components round out the feature list and include a double-locking tremolo by Floyd Rose® for rock-solid bends, and a set of sealed-gear tuning machines with split shafts for smooth tuning action and easy restringing. Eye-catching styling cues include stealthy black hardware and a sleek painted headstock with chrome logos for a premium look.",
+    "imagenes": [
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0370240533_sqr_ins_frt_1_rr.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0370240533_sqr_ins_bck_1_rl.jpg",
+      "https://www.fmicassets.com/Damroot/LgJpg/10001/0370240533_sqr_ins_cbr_1_nr.jpg"
+    ]
+  }
+]
